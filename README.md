@@ -9,7 +9,7 @@
   <a href="https://github.com/AmpPulseApp/amppulse/releases/latest"><img src="https://img.shields.io/github/v/release/AmpPulseApp/amppulse?style=flat-square&color=0e7490&labelColor=1a1f26&label=latest%20release&v=2" alt="Latest Release" /></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-166e7d?style=flat-square&labelColor=1a1f26" alt="Windows 10/11" />
   <img src="https://img.shields.io/badge/installer-~4%20MB-2b3440?style=flat-square&labelColor=1a1f26" alt="Installer Size" />
-  <img src="https://img.shields.io/badge/telemetry-none-147a52?style=flat-square&labelColor=1a1f26" alt="No Telemetry" />
+  <img src="https://img.shields.io/badge/telemetry-zero-147a52?style=flat-square&labelColor=1a1f26" alt="Zero Telemetry" />
 </p>
 
 <p>
